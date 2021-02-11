@@ -1,0 +1,24 @@
+.dark{
+background:black;
+color :black;
+}
+
+.title{
+    color: #32cd9f;
+    font-style: italic;
+}
+
+.description{
+        font-style: oblique;
+        text-decoration: underline;
+        margin-top: 5xp;
+}
+
+.id{
+    background-color: white;
+    border:#fff 1px solid;
+    padding:15px;
+    margin: 20px;
+}
+
+
